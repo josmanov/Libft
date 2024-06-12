@@ -1,4 +1,4 @@
-# Libft
+# Libft - A library with 43 functions.
 ## My very first Hive 42 project
 
 Main functions:
@@ -29,33 +29,6 @@ Main functions:
 
 ### ft_itoa.c
 - Converts an integer to a string.
-
-### ft_lstadd_back_bonus.c
-- Adds a new element to the end of a list.
-
-### ft_lstadd_front_bonus.c
-- Adds a new element to the beginning of a list.
-
-### ft_lstclear_bonus.c
-- Deletes and frees all elements of a list.
-
-### ft_lstdelone_bonus.c
-- Deletes and frees a single element from a list.
-
-### ft_lstiter_bonus.c
-- Iterates over a list and applies a function to each element.
-
-### ft_lstlast_bonus.c
-- Returns the last element of a list.
-
-### ft_lstmap_bonus.c
-- Applies a function to each element of a list, creating a new list.
-
-### ft_lstnew_bonus.c
-- Creates a new list element.
-
-### ft_lstsize_bonus.c
-- Returns the number of elements in a list.
 
 ### ft_memchr.c
 - Locates a byte in a block of memory.
@@ -131,6 +104,34 @@ Main functions:
 
 ### ft_toupper.c
 - Converts a character to uppercase.
+
+Bonus functions:
+### ft_lstadd_back_bonus.c
+- Adds a new element to the end of a list.
+
+### ft_lstadd_front_bonus.c
+- Adds a new element to the beginning of a list.
+
+### ft_lstclear_bonus.c
+- Deletes and frees all elements of a list.
+
+### ft_lstdelone_bonus.c
+- Deletes and frees a single element from a list.
+
+### ft_lstiter_bonus.c
+- Iterates over a list and applies a function to each element.
+
+### ft_lstlast_bonus.c
+- Returns the last element of a list.
+
+### ft_lstmap_bonus.c
+- Applies a function to each element of a list, creating a new list.
+
+### ft_lstnew_bonus.c
+- Creates a new list element.
+
+### ft_lstsize_bonus.c
+- Returns the number of elements in a list.
 
 ### libft.h
 - Header file containing function declarations and macros.
